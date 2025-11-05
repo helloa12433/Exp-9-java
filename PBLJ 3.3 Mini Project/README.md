@@ -149,12 +149,4 @@ Enter your choice:
 * Hibernate will **auto-create/update tables** using `hbm2ddl.auto=update`.
 * For testing without MySQL, you can switch to **H2 in-memory database**.
 
----
 
-## 👨‍💻 Author
-
-Nimbus Submission by
-Harsh Kumar
-23BCS13912
-3rd Year CSE Student
-Submitted for: *Mini Project: Online Student Management System*
