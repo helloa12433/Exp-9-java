@@ -147,10 +147,3 @@ If you want to run all three parts under a single Tomcat instance:
 
 ---
 
-## 👨‍💻 Author
-
-Nimbus Submission by
-Harsh Kumar
-23BCS13912
-3rd Year CSE Student
-Submitted for: *Web Application Development using Servlets & JSP*
